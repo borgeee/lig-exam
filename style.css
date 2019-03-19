@@ -3,6 +3,8 @@
 body{
 	margin: 0;
 	padding: 0;
+	width: 1280px;
+	margin: auto;
 }
 
 .carousel-item > img {
